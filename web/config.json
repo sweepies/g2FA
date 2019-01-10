@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "port": "3306",
+        "database": "g2fa",
+        "user": "g2fa",
+        "password": ""
+    },
+    "api_key": "test",
+    "service_name": "GMod 2FA"
+}
